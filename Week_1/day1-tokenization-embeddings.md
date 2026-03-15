@@ -76,4 +76,4 @@ That's where it gets interesting.
 
 *#LLMFundamentals #MachineLearning #NLP #LearningInPublic #AI*
 
-!Tokenization and Embeddings (tokenization_embeddings_day1.svg)
+![Tokenization and Embeddings](tokenization_embeddings_day1.svg)
