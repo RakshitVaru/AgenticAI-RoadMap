@@ -7,7 +7,7 @@ Yesterday, text became vectors. Today, those vectors start talking to each other
 
 The problem attention solves: a transformer has no built-in sense of which words are related. Without it, every token is processed in isolation. `"bank"` in `"river bank"` and `"bank"` in `"savings bank"` would look identical - same vector, no context.
 
-Attention fixes this. Here's how it works —
+Attention fixes this. Here's how it works -
 
 ![SelfAttention_Workflow](../images/self_attention.svg)
 
