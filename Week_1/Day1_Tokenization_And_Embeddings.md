@@ -21,7 +21,7 @@ Over the next 5 days, I'm sharing what I learned.
 
 **LLMs don't read words.** Before any intelligence happens, your text gets converted into math.
 
-Here's how —
+Here's how -
 
 ![Tokenization and Embeddings](../images/tokenization_embeddings_day1.svg)
 
